@@ -1,1 +1,1 @@
-Thsi is my main code for the software.
+This is the changed version of the main code for the software.
